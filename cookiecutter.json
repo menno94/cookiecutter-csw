@@ -1,0 +1,11 @@
+{
+    "full_name": "csw",
+    "email": "mariokrapp@gmail.com",
+    "github_username": "csw_user",
+    "project_name": "csw project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "project_short_description": "...",
+    "release_date": "{% now 'local' %}",
+    "version": "0.1.0",
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
