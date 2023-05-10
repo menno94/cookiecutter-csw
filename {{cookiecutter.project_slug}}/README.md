@@ -11,16 +11,16 @@ Project Organization
 ├── AUTHORS.md
 ├── LICENSE
 ├── README.md
-├── 01_Project management <- documents related to project management
-├── 02_References         <- References
-├── 03_data
+├── Project_management <- documents related to project management
+├── References         <- References
+├── data
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
-├── 04_simulations     <- folder with simulations
-├── 05_results         <- results
-├── 06_reports         <- For a manuscript source, e.g., LaTeX, Markdown, etc., or any project reports
+├── simulations     <- folder with simulations
+├── results         <- results
+├── reports         <- For a manuscript source, e.g., LaTeX, Markdown, etc., or any project reports
 │   └── figures        <- Figures for the manuscript or reports
 └── scripts            <- scripts for this project
     ├── data           <- scripts and programs to process data
